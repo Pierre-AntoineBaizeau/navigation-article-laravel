@@ -1,3 +1,34 @@
+# Laravel Pierre-Antoine Baizeau
+
+
+Bienvenue sur un projet réalisé en __Laravel__ , celui-ci n'a pas eu d'attention porté sur le visuel et à été réalisé à l'aide de faker pour generer des articles et catégories. 
+__Veuillez suivre les indication en dessous de l'explication pour mettre en route le projet.__
+
+### Naviguer entre les différentes catégories
+
+Vous pouvez naviguer entre les catégories et les affichers.
+
+<img src="https://user-images.githubusercontent.com/70761069/114284906-7de42980-9a53-11eb-8c5b-a8d17e71e264.png" width="700">
+
+
+### Sur une catégorie
+
+Vous pouvez voir le nom et l'image de la catégorie, retourner sur toutes les catégories et voir les differents articles de la catégorie.
+
+<img src="https://user-images.githubusercontent.com/70761069/114284976-f2b76380-9a53-11eb-8c5c-5226bad97186.png" width="700">
+
+
+### Sur un article
+
+Vous pouvez voir le nom, l'image, la description de l'article et le nombre encore disponible, retourner sur toutes les catégories.
+
+<img src="https://user-images.githubusercontent.com/70761069/114285044-5f326280-9a54-11eb-89d0-9fc114eb2134.png" width="700">
+
+
+----------------
+
+
+
 ## Comment mettre en route le projet 
 
 Pour mettre en route le projet il vous faudra réaliser quelques manipulations, celle ci sont présente si dessous 
@@ -11,12 +42,10 @@ Pour mettre en route le projet il vous faudra réaliser quelques manipulations, 
 - 
 - enfin lancer le projet pour qu'il s'affiche dans votre navigateur en rentrant "php artisan serve" dans votre terminal puis en cliquant sur le lien mis a votre disposition dans le termial qui est http://127.0.0.1:8000 si vous n'avez pas deja lancé un site via php artisan. Si c'est le cas changé le dernier chiffre comme tel http://127.0.0.1:8001, ou avec un chiffre superieur.
 
-
-Pour vous connecter veuillez rentrez comme email: administrateur@gmail.com et administrateur comme mot de passe.
-
-
 Vous pouvez des a present profiter du projet.
 
+
+------------------
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
